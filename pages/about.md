@@ -5,35 +5,48 @@ permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
 # featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
-about-featured-image: demo_031
+about-featured-image: worldsfair028 
 # set background-position for featured image, "center", "top", "bottom"
-position: bottom
+position: center
 # major heading to display over featured image
-heading: About the Collection
+heading: What Were World Expositions? 
 # paragraph text below heading in featured image
 sub-heading: 
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
-padding: 6em
+padding: 3em
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## About CollectionBuilder CSV
+## What Were World Expositions?
+World Expositions emerged in the mid-19th century as grand international exhibitions designed to showcase technological innovations, cultural achievements, and national progress. 
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+Born from the Industrial Revolution's need to display new inventions and foster international trade, these events became platforms for peaceful competition between nations and public education on a massive scale.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+## Why These Four Expositions?
+This collection focuses on four pivotal exhibitions that represent key moments in technological and social transformation:
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+1. London 1851: The first international exhibition, establishing the template for future world's fairs.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+2. Philadelphia 1876: America's industrial coming-of-age and early women's rights activism.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+3. Paris 1889: Architectural triumph and imperial showcase with lasting cultural icons. 
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+4. Chicago 1893: Urban planning revolution and the dawn of the electric age.
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+## Critical Perspectives
+While celebrating technological progress, these expositions also reinforced social hierarchies, colonial exploitation, and racial discrimination. Our exhibition examines both the innovations and the controversies, including:
+
+1. Colonial "human zoos" and cultural appropriation 
+2. Women's struggles for representation and recognition
+3. Racial exclusion and ethnographic exploitation
+4. Class divisions in access and participation 
+
+## Innovation and Progress
+Each exposition showcased cutting-edge technology, from steam power to electricity, marking humanity's rapid advancement through the Industrial Revolution.
+
+## Power and Representation
+World's fairs served as stages for nations to assert dominance and project cultural values, often at the expense of marginalized communities.
+
+## Legacy and Memory
+These expositions left lasting impacts on urban development, international relations, and collective memory, while their controversial aspects were often forgotten or romanticized. 
